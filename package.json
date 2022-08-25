@@ -9,7 +9,6 @@
     "build": "tsc",
     "lint": "eslint src/"
   },
-  "type": "module",
   "author": "Jacob120",
   "license": "ISC",
   "devDependencies": {
@@ -23,6 +22,6 @@
     "typescript": "^4.7.4"
   },
   "dependencies": {
-    "inquirer": "^9.1.0"
+    "inquirer": "^8.0.0"
   }
 }

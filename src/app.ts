@@ -1,4 +1,5 @@
-import inquirer from 'inquirer';
+// eslint-disable-next-line @typescript-eslint/no-var-requires
+const inquirer = require('inquirer');
 
 const chosenNumbers: number[] = [];
 const randomNumbers: number[] = [];
